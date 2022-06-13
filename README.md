@@ -2,7 +2,7 @@
 
 Run me : `docker run -p80:80 docker-whale:v1.0`
 
-Build me: `docker build -t docker-whale:v.10 .`
+Build me: `docker build -t docker-whale:v1.0 .`
 
 Login Docker Hub: `docker login` -> input user/password
 
